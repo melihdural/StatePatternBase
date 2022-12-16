@@ -13,12 +13,8 @@ public class StateController //MonoBehaviour
         _pauseState = pauseState;
     }
 
-    internal void CheckInput()
+    internal void CheckInput(string input)
     {
-        Console.WriteLine("A or B or C");
-        var input = Console.ReadLine();
-        Console.WriteLine("input:  " + input);
-
         switch (input)
         {
             case "A":
