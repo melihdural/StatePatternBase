@@ -1,0 +1,15 @@
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/bin/Debug/net6.0/StateDesignPattern
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/bin/Debug/net6.0/StateDesignPattern.deps.json
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/bin/Debug/net6.0/StateDesignPattern.runtimeconfig.json
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/bin/Debug/net6.0/StateDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/bin/Debug/net6.0/StateDesignPattern.pdb
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.csproj.AssemblyReference.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.AssemblyInfoInputs.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.AssemblyInfo.cs
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.csproj.CoreCompileInputs.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/refint/StateDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.pdb
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/StateDesignPattern.genruntimeconfig.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/StateDesignPatternBase/StateDesignPattern/StateDesignPattern/obj/Debug/net6.0/ref/StateDesignPattern.dll
